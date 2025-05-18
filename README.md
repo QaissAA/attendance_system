@@ -111,8 +111,3 @@ Tested endpoints:
 * **Course:** Software Quality Assurance, 2025
 
 ```
-
----
-
-Would you also like me to generate the `requirements.txt` for you based on your current setup?
-```
