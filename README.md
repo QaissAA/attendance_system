@@ -15,24 +15,6 @@ This project is the final assignment for the **Software Quality Assurance** cour
 - **HTMLTestRunner** – generates HTML test reports
 - **Google Chrome + WebDriver**
 
----
-
-## 📁 Project Structure
-
-```
-
-attendance\_test\_project/
-├── tests/
-│   ├── test\_ui\_attendance.py       # Selenium-based UI tests
-│   ├── test\_api\_attendance.py      # REST API tests using requests
-│   ├── test\_utils.py               # Common helper functions
-├── reports/
-│   └── report.html                 # Pytest HTML report
-├── locustfile.py                   # Performance testing script
-├── requirements.txt                # Project dependencies
-├── README.md                       # Project documentation
-
-````
 
 ---
 
