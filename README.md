@@ -107,9 +107,8 @@ Tested endpoints:
 
 ## 👨‍💻 Author
 
-* **Name:** \[Your Name]
+* **Name:** \[K.Alikhan, O. Saida, S.Timur, T.Yerkezhan, B.Assem]\[AITU-2025]
 * **Course:** Software Quality Assurance, 2025
-* **Instructor:** \[Instructor’s Name]
 
 ```
 
